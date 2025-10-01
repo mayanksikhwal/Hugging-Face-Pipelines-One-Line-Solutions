@@ -1,0 +1,1 @@
+# Hugging-Face-Pipelines-One-Line-Solutions
