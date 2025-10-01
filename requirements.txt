@@ -1,0 +1,7 @@
+transformers
+torch
+requests
+Pillow
+matplotlib
+diffusers
+accelerate
